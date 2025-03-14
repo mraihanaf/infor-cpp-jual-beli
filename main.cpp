@@ -76,6 +76,10 @@ void setDiscount(int id, float discountInPercent){
 }
 
 int main() {
+    cout << "PTS INFORMATIKA 2025\n";
+    cout << "Nama : M. Raihan Al Farizy\n";
+    cout << "Kelas : X-RPL\n";
+    cout << "Tanggal : Jumat, 14/03/2025\n"
     int choice;
     cout << "=============\n";
     cout << "--Jual-Beli--\n";
